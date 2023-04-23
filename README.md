@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brave Ovie</h1>
 <h3 align="center">A Passionate Frontend Developer From Ghana/Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://digitaledgetech.in/images/Banner_02_new.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravemz&label=Profile%20views&color=0e75b6&style=flat" alt="bravemz" /> </p>
 
