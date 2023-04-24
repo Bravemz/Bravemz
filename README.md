@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **N/A**
 
-- 💬 Ask me about **Frontend Development, Android &**
+- 💬 Ask me about **Frontend Development, Android & iOS
 
 - 📫 How to reach me **braveovie1960@gmail.com & IG:invisibleit85**
 
