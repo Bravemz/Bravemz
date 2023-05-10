@@ -8,7 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravemz&label=Profile%20views&color=0e75b6&style=flat" alt="bravemz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravemz" alt="bravemz" /></a> </p>
-
+    
+  🔭 I just finished my new Movies Project *Brave-Cinema*
+  
 - 🔭 I’m currently working on **Nextflix-Clone**
 
 - 🌱 I’m currently learning **React-Native & Backend Development.**
